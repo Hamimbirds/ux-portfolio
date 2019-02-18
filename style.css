@@ -1,0 +1,75 @@
+body p {
+    font-family:'Raleway', sans-serif;;
+    margin: 0;
+    text-align: justify;
+    line-height: 1.5rem;
+}
+
+.menu li a{
+    font-family: 'Dancing Script', cursive;
+    color:black;
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+
+.header {
+    margin: auto;
+    margin-bottom: 20px;
+
+
+}
+
+.header img{height: 150px;
+    weight:150px;}
+
+.header li {
+    float: left;
+    list-style-type: none;
+    padding: 10px;
+
+    text-transform: capitalize;
+
+
+}
+.abt img{
+    height: 50%;
+    width: 100%;
+}
+
+.gallery {
+    margin-top: 20px;
+}
+
+.gallery img{
+    height: 200px;
+    weight:150px;
+}
+
+.wrapper {
+    margin-top: 15px;
+}
+
+.footer {
+
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa {
+    text-decoration: none;
+    margin: 15px 20px;
+    color: black;
+}
